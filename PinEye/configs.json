@@ -1,0 +1,13 @@
+{
+  "timeZone": "en-US",
+  "isSkipInvalidProxy": true,
+  "delayEachAccount": [5, 8],
+  "timeToRestartAllAccounts": 300,
+  "howManyAccountsRunInOneTime": 100,
+  "isDoTasks": true,
+  "isPlayGames": true,
+  "todayCode": "1359",
+  "autoSolveTodayCode": false,
+  "upgradeBoost": { "multitap": 1, "energyLimit": 1 },
+  "cardMaxPrice": 5000000
+}
