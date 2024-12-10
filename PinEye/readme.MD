@@ -32,20 +32,17 @@ To get started with the bot, follow these steps:
 
 ```json
 {
-  {
   "timeZone": "en-US",
-  "isSkipInvalidProxy": true,
+  "skipInvalidProxy": false,
   "delayEachAccount": [5, 8],
   "timeToRestartAllAccounts": 300,
   "howManyAccountsRunInOneTime": 100,
   "isDoTasks": true,
   "isPlayGames": true,
-  "todayCode": "1359", // Random code form 1 to 9 for each slot, ex: "1359" or "9921" or "1111"
-  "autoSolveTodayCode": true,
+  "todayCode": "1359",
+  "autoSolveTodayCode": false,
   "upgradeBoost": { "multitap": 1, "energyLimit": 1 },
   "cardMaxPrice": 5000000
-}
-
 }
 ```
 
