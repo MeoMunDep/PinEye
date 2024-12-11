@@ -74,6 +74,6 @@ socks5://user:password@host:port
 💡 Usage:
 
 > You need to `cd` to the file after extract it.
-> To run the bot, use the following command: `node bot`
+> To run the bot, use the following command: `cd pineye-main/pineye; node bot`
 
 🎇Enjoy!
