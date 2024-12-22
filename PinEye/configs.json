@@ -7,7 +7,8 @@
   "isDoTasks": true,
   "isPlayGames": true,
   "todayCode": "1359",
-  "autoSolveTodayCode": false,
+  "autoSolveTodayCode": true,
   "upgradeBoost": { "multitap": 1, "energyLimit": 1 },
-  "cardMaxPrice": 5000000
+  "cardMaxPrice": 5000000,
+  "upgradeCards": false
 }
