@@ -1,5 +1,8 @@
 📞 Contact
 
+> [Termux guides if you run on mobile](https://github.com/MeoMunDep/Guides-for-using-my-script-on-termux.)
+
+
 > If you encounter any issues or have questions, feel free to reach out:
 
 - Contact: [Link](t.me/MeoMunDep)
@@ -13,6 +16,9 @@
 To get started with the bot, follow these steps:
 
 0. **Dowload NodeJS to run the bot**
+
+- **Node.js** (Version: `22.11.0`)
+- **npm** (Version: `10.9.0`)
 
 -> [Link](https://t.me/KeoAirDropFreeNe/257/1462)
 
@@ -40,10 +46,12 @@ To get started with the bot, follow these steps:
   "isDoTasks": true,
   "isPlayGames": true,
   "todayCode": "1359",
-  "autoSolveTodayCode": false,
+  "autoSolveTodayCode": true,
   "upgradeBoost": { "multitap": 1, "energyLimit": 1 },
-  "cardMaxPrice": 5000000
+  "cardMaxPrice": 5000000,
+  "upgradeCards": false
 }
+
 ```
 
 ### 2. `datas.txt` 🗂️ - Get it from here >>> [Link](https://t.me/KeoAirDropFreeNe/257/6879)
