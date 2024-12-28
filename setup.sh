@@ -42,7 +42,8 @@ create_default_configs() {
   "upgradeBoost": { "multitap": 1, "energyLimit": 1 },
   "cardMaxPrice": 5000000,
   "upgradeCards": true,
-  "doPractice": true
+  "doPractice": true,
+  "doAcademy": true
 }
 EOL
 }
