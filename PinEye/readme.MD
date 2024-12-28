@@ -43,17 +43,16 @@ To get started with the bot, follow these steps:
   "delayEachAccount": [5, 8],
   "timeToRestartAllAccounts": 300,
   "howManyAccountsRunInOneTime": 100,
-  "isDoTasks": true,
+  "isDoTasks": false,
   "isPlayGames": true,
   "todayCode": "1359",
   "autoSolveTodayCode": true,
   "upgradeBoost": { "multitap": 1, "energyLimit": 1 },
   "cardMaxPrice": 5000000,
   "upgradeCards": true,
-  "doPractice": true
+  "doPractice": false,
+  "doAcademy": true
 }
-
-
 ```
 
 ### 2. `datas.txt` 🗂️ - Get it from here >>> [Link](https://t.me/KeoAirDropFreeNe/257/6879)
