@@ -49,8 +49,10 @@ To get started with the bot, follow these steps:
   "autoSolveTodayCode": true,
   "upgradeBoost": { "multitap": 1, "energyLimit": 1 },
   "cardMaxPrice": 5000000,
-  "upgradeCards": false
+  "upgradeCards": true,
+  "doPractice": true
 }
+
 
 ```
 
