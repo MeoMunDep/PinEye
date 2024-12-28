@@ -41,7 +41,8 @@ create_default_configs() {
   "autoSolveTodayCode": true,
   "upgradeBoost": { "multitap": 1, "energyLimit": 1 },
   "cardMaxPrice": 5000000,
-  "upgradeCards": true
+  "upgradeCards": true,
+  "doPractice": true
 }
 EOL
 }
